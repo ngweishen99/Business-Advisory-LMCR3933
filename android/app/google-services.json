@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133551149610",
+    "project_id": "business-advisory-c36bd",
+    "storage_bucket": "business-advisory-c36bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133551149610:android:c443220e638fd56616e953",
+        "android_client_info": {
+          "package_name": "com.example.consultant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133551149610-hm77utbunpo8r0h5972h93omuukemtg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtsmY3aUSXxDd3SYaYQSV9asQ5vP8t7-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133551149610-hm77utbunpo8r0h5972h93omuukemtg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
